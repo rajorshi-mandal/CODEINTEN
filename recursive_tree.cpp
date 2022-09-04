@@ -40,7 +40,7 @@ int main() {
         cout << " Enter the nth element index " ;
         cin >> n;
         Solution ob;
-        cout << " The " << n << " element of fibonacci series is " << ob.nthFibonacci(n) << endl;
+        cout << " The " << n << "th element of fibonacci series is " << ob.nthFibonacci(n) << endl;
     }
     return 0;
 }
