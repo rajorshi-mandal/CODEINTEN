@@ -33,12 +33,14 @@ class Solution {
 //{ Driver Code Starts.
 int main() {
     int t;
+    cout << " Enter the no. of inputs " ;
     cin >> t;
     while (t--) {
         long long int n;
+        cout << " Enter the nth element index " ;
         cin >> n;
         Solution ob;
-        cout << ob.nthFibonacci(n) << endl;
+        cout << " The " << n << " element of fibonacci series is " << ob.nthFibonacci(n) << endl;
     }
     return 0;
 }
