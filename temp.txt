@@ -1,0 +1,7 @@
+Day 1 : Factorial Recursion
+Day 2 : Recursive Tree
+Day 3 : Nth Stair 
+Day 4 : String Palindrome
+Day 5 : Subsequences
+Day 6 : Subsets
+Day 7 : Subset Sum
